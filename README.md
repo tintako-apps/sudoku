@@ -2,7 +2,7 @@
 
 # Sudoku
 
-A calm, fully offline sudoku for the Mudita Kompakt, designed for E Ink: black and white, no animations, no timer.
+A calm, fully offline sudoku, designed for E Ink: black and white, no animations, no timer.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -28,4 +28,4 @@ A calm, fully offline sudoku for the Mudita Kompakt, designed for E Ink: black a
 Fully offline: the app has no internet permission and asks for no phone permissions.
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
